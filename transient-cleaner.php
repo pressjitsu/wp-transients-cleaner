@@ -2,6 +2,7 @@
 /**
  * Plugin Name: PJ Transient Cleaner
  * Description: Cleans expired transients behind the scenes.
+ * Plugin URI: http://pressjitsu.com
  */
 
 class Pj_Transient_Cleaner {
