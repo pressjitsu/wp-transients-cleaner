@@ -1,6 +1,6 @@
 {
 	"name"       : "pressjitsu/wp-transients-cleaner",
-	"type"       : "wordpress-plugin",
+	"type"       : "wordpress-muplugin",
 	"require"    : {
 		"composer/installers": "~1.0"
 	}
